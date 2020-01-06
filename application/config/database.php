@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'mysqldev01.beckett.com';
-$db['default']['username'] = 'incarnate';
-$db['default']['password'] = 'aKaRxPZ9Cn2cL7sp';
+$db['default']['hostname'] = 'abc.com';
+$db['default']['username'] = 'root';
+$db['default']['password'] = 'root';
 $db['default']['database'] = 'aadhar';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
